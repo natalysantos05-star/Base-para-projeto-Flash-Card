@@ -2,19 +2,18 @@
 // Troque disciplina, pergunta e resposta pelos conteúdos que você criou.
 
 criaCartao(
-   'Disciplina 1',
-    'Pergunta 1',
-    'Resposta 1'
+   'matemática',
+    'quanto é 1/4+1/2?',
+    '3/4'
 )
 
-criaCartao(
-    'Disciplina 2',
-    'Pergunta 2',
-    'Resposta 2'
-)
+criaCartao',
+    '',
+    'um quadrado tem lado 5cm. qual é a área dele?'
+)25cm/2
 
 criaCartao(
-    'Disciplina 3',
+    'portugues',
     'Pergunta 3',
     'Resposta 3'
 )
